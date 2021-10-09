@@ -1,10 +1,10 @@
-# mcc
+# MCC
 ## MCC experiments 
 | Sr no. |  Title  |
 |--------------|-------|
-| 1 | To understand the cellular frequency reuse concept to find the co-channel cells for aparticular cell. Design a game based application on the above concept.|
+| 1 | To understand the cellular frequency reuse concept to find the co-channel cells for a particular cell. Design a game based application on the above concept.|
 | 2 | To understand the cellular frequency reuse concept to find the cell clusters within certaingeographic area. Design a game based application on the above concept.|
-| 3 | Implementation a Bluetooth network with application as transfer of a file from one deviceto another. |
+| 3 | Implementation a Bluetooth network with application as transfer of a file from one device to another. |
 | 4 | To implement a basic function of Code Division Multiple Access (CDMA) to test the orthogonality and autocorrelation of a code to be used for CDMA operation. Write an application based on the above concept. |
 | 5 | To implement Mobile node discovery |
 | 6 | Implementation of GSM security algorithms (A3/A5/A8) |
